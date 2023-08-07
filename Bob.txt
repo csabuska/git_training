@@ -1,2 +1,5 @@
 Hi, I am Bob! I'm new here.
 
+Adding text to check merging divergent branches (aug 07 10:22)
+
+
