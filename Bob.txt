@@ -1,5 +1,4 @@
-Hi, I am Bob! I'm new here.
+Hi, I am Bob! I've been here a while now.
 
-Adding text to check merging divergent branches (aug 07 10:22)
 
 
