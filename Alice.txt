@@ -1,6 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
-I made changes to this file on 6th aug as test branches
-
-Changes added for divergent branches (aug 7 10:25)
+Adding text for git rebase
 
